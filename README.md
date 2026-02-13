@@ -4,13 +4,13 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy learning & building Web + ML projects :   </summary> </strong></p>
+<p><strong> <summary>  Busy learning Web & Machine Learning :   </summary> </strong></p>
 
-Learning mode ON 💻🔥
+Building projects & improving my skills every day 💻🔥
 
 </details>
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=PUT_YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=Heba-design&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
