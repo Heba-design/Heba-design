@@ -47,3 +47,17 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma" }
   };
 }
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning <b>Machine Learning & Advanced JavaScript</b>. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like building <b>Frontend Web Projects</b>. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about <b>HTML, CSS, JS, Bootstrap, Python</b>. <br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy turning ideas into working web pages ⚡<br>
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Python", "C++", "JavaScript" },
+    "WebTechnologies" : { "HTML", "CSS", "Bootstrap" },
+    "LearningNow" : { "Machine Learning", "Problem Solving" },
+    "Editors" : { "VSCode" },
+    "Platforms" : { "Windows" },
+    "OtherTools" : { "Git", "Figma" }
+  };
+}
