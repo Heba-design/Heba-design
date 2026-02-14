@@ -3,7 +3,7 @@
   <br>Hi there! 
   <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   <br><br>
-  I'm Heba Khalifa — Web Developer 👩‍💻
+  I'm Heba Khalifa — Web Developer 💻
   <br>
   NTI Trainee (Web Design & Machine Learning)
   <br><br>
@@ -69,4 +69,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Heba_Khalifa-blue?style=flat-square&logo=linkedin&logoColor=white&link=PUT_YOUR_LINK)](PUT_YOUR_LINK)
+[![Linkedin Badge](https://img.shields.io/badge/-Heba_Khalifa-blue?style=flat-square&logo=linkedin&logoColor=white&link=PUT_YOUR_LINK)](https://www.linkedin.com/in/heba-khalifa-cs)
