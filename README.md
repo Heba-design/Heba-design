@@ -32,6 +32,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
@@ -48,10 +56,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
 </p>
 
 ---
@@ -60,7 +64,7 @@
 
 - 💻 Front-End Web Developer  
 - 🎓 NTI Trainee — Web Design & Machine Learning  
-- 🌐 I build responsive websites using HTML, CSS, JS & Bootstrap  
+- 🌐 I build responsive websites using HTML, CSS, JS , Bootstrap & C++  
 - 📚 Currently improving JavaScript & practical ML skills  
 - 🚀 Always ready to collaborate on web projects  
 - 🎯 Goal: Gain real experience & build strong production-level projects  
