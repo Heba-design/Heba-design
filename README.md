@@ -4,9 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Heba-design" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Computer Science Student | Web Developer Trainee | ML Learner :   </summary> </strong></p>
+<p><strong> <summary>  CS Student | Frontend Developer Trainee | Open for Internships :   </summary> </strong></p>
 
-Focused on building real projects and preparing for professional tech roles 💼
+Actively building frontend projects and seeking internship & junior frontend opportunities 💼
 
 </details>
 
@@ -17,7 +17,7 @@ Focused on building real projects and preparing for professional tech roles 💼
 
 <hr></hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Technical%20Skills-orange)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frontend%20%26%20Technical%20Skills-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
@@ -51,12 +51,12 @@ Focused on building real projects and preparing for professional tech roles 💼
 ```dart
 class About extends Me { 
   const myTools = {  
-    "CoreLanguages" : { "Python", "C++", "JavaScript" },
-    "WebStack" : { "HTML", "CSS", "Bootstrap" },
-    "CSFocus" : { "Problem Solving", "Machine Learning Basics" },
+    "FrontendStack" : { "HTML", "CSS", "JavaScript", "Bootstrap" },
+    "Programming" : { "Python", "C++" },
+    "CSCore" : { "Problem Solving", "Data Structures Basics" },
     "Databases" : { "Firebase", "Sqlite" },
     "Editors" : { "VSCode", "Sublime" },
     "Platforms" : { "Windows", "Linux" },
-    "ProfessionalTools" : { "Git", "Figma", "Photoshop" }
+    "WorkTools" : { "Git", "Figma", "Photoshop" }
   };
 }
