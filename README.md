@@ -35,7 +35,7 @@ Building projects & improving my skills every day 💻🔥
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 
 ```dart
-// tools_I_use organized
+ tools_I_use organized
 
 class About extends Me { 
   const myTools = {  
