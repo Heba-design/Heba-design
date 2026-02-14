@@ -4,9 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Heba-design" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy learning CS, Web Design & ML :   </summary> </strong></p>
+<p><strong> <summary>  Computer Science Student | Web Developer Trainee | ML Learner :   </summary> </strong></p>
 
-Building web projects & practicing machine learning every day 💻
+Focused on building real projects and preparing for professional tech roles 💼
 
 </details>
 
@@ -17,7 +17,7 @@ Building web projects & practicing machine learning every day 💻
 
 <hr></hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Technical%20Skills-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
@@ -51,33 +51,12 @@ Building web projects & practicing machine learning every day 💻
 ```dart
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Python", "C++", "JavaScript" },
-    "OtherLanguages" : { "HTML", "CSS", "Markdown", "Json" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime" },
-    "Platforms" : { "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop" }
+    "CoreLanguages" : { "Python", "C++", "JavaScript" },
+    "WebStack" : { "HTML", "CSS", "Bootstrap" },
+    "CSFocus" : { "Problem Solving", "Machine Learning Basics" },
+    "Databases" : { "Firebase", "Sqlite" },
+    "Editors" : { "VSCode", "Sublime" },
+    "Platforms" : { "Windows", "Linux" },
+    "ProfessionalTools" : { "Git", "Figma", "Photoshop" }
   };
 }
-I’m currently learning Machine Learning & Advanced JavaScript. 
-    I like building Frontend Web Projects. 
-   Ask me about HTML, CSS, JS, Bootstrap, Python. 
-   Find me on GitHub: Heba-design�
-      Fun fact: NTI Web & ML trainee who loves turning ideas into real projects ⚡
-�
-
-�
-￼ ￼ ￼
-�
-
-�
-More stats
-�
-￼
-�
-
-�
-
-Code Cycle
-�
-￼       ￼       ￼
