@@ -1,75 +1,72 @@
-<div align="center">
+<h2 align="left">
+ <abc>
+  <br>Hi there! 
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+  <br><br>
+  I'm Heba Khalifa — Web Developer 👩‍💻
+  <br>
+  NTI Trainee (Web Design & Machine Learning)
+  <br><br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
-# 👩‍💻 Heba Khalifa
-### Web Developer | NTI Trainee (Web Design & ML)
+<p align="left">
 
-</div>
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+</p>
 
 ---
 
-## 👋 About Me
+<h2 align="left">👩🏻‍💻 About Me:</h2>
 
 - 💻 Front-End Web Developer  
 - 🎓 NTI Trainee — Web Design & Machine Learning  
-- 🌐 I build responsive websites using modern web technologies  
-- 📚 Currently improving my JavaScript & practical ML skills  
-- 🎯 Goal: Work on real-world web projects and grow as a professional developer
+- 🌐 I build responsive websites using HTML, CSS, JS & Bootstrap  
+- 📚 Currently improving JavaScript & practical ML skills  
+- 🚀 Always ready to collaborate on web projects  
+- 🎯 Goal: Gain real experience & build strong production-level projects  
+- ⚡ Fun fact: I enjoy turning designs into real working websites
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="left">:heart: Let's get connected:</h2>
 
-### 🌐 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### 🤖 Basics
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat)
-
----
-
-## 📂 Featured Projects
-
-- 🌍 Responsive Website Projects  
-- 🧩 Bootstrap UI Layouts  
-- 📊 ML Mini Projects (NTI Training)
-
-> *(ضيفي هنا لينكات مشاريعك لما ترفعيها)*
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: *(حطي لينك لينكدإن هنا)*  
-- 📧 Email: *(اختياري)*
-
----
-
-<div align="center">
-
-⭐ Always learning — Always building
-
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Heba_Khalifa-blue?style=flat-square&logo=linkedin&logoColor=white&link=PUT_YOUR_LINK)](PUT_YOUR_LINK)
