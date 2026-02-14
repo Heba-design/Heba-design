@@ -8,7 +8,9 @@
   NTI Trainee (Web Design & Machine Learning)
   <br><br>
   <h3>I’m a passionate Front-End Developer focused on building responsive, user-friendly web interfaces using modern web technologies.</h3>
+  <div align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+   </div>
  </abc>
 </h2>
 
@@ -17,7 +19,7 @@
 <p align="left">
 
 <a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank">
@@ -28,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://getbootstrap.com" target="_blank">
+<a href="https://getbootstrap.com" target="_blank" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </a>
 
