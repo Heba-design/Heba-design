@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px"/>
 
-# Hi, I'm Heba 👩‍💻  
+# Hi, I'm Heba Khalifa  
 ### Web Designer | ML Beginner
 
 </div>
