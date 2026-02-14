@@ -69,4 +69,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Heba_Khalifa-blue?style=flat-square&logo=linkedin&logoColor=white&link=PUT_YOUR_LINK)](https://www.linkedin.com/in/heba-khalifa-cs)
+[![Linkedin Badge](https://img.shields.io/badge/-My_LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-khalifa-cs)
