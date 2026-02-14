@@ -3,10 +3,11 @@
   <br>Hi there! 
   <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   <br><br>
-  I'm Heba Khalifa — Web Developer 💻
+  I'm Heba Khalifa — Front-End Web Developer 💻
   <br>
   NTI Trainee (Web Design & Machine Learning)
   <br><br>
+  <h3>I’m a passionate Front-End Developer focused on building responsive, user-friendly web interfaces using modern web technologies.</h3>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
