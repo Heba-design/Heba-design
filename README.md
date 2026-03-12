@@ -66,7 +66,7 @@
 
 - 💻 Front-End Web Developer  
 - 🎓 NTI Trainee — Web Design & Machine Learning  
-- 🌐 I build responsive websites using HTML, CSS, JS , Bootstrap & C++  
+- 🌐 I build responsive websites using HTML, CSS, JS & Bootstrap  
 - 📚 Currently improving JavaScript & practical ML skills  
 - 🚀 Always ready to collaborate on web projects  
 - 🎯 Goal: Gain real experience & build strong production-level projects  
